@@ -1,2 +1,2 @@
-# population.csv
+# population.arff
 Members: lacson,Basoy,Cabugas
